@@ -11,6 +11,7 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://zhuye1993.github.io/action-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -34,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://zhuye1993.github.io/action-demo"
+  }
 }
